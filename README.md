@@ -1,4 +1,4 @@
-# SatelliteOrbitSimulation (위성궤도 시뮬레이션)
+# YOUSOL's EMR (의무전자기록)
 ※ 본 소프트웨어는 의료용이 아니며, 실제 진료 기록 관리용으로 사용될 수 없습니다.
 
 종이 기반의 환자 진료 기록을 디지털화하여 전산 시스템에 저장하고 관리하는 체계인 EMR(의무전자기록)을
@@ -16,3 +16,10 @@ Winform을 이용하여 구현하였습니다.
 
 ### 주의 사항
 ※ 본 소프트웨어는 의료용이 아니며, 실제 진료 기록 관리용으로 사용될 수 없습니다.
+
+## 개발 팀원 소개
+| 류용헌 |
+|:------:|
+| <img src="https://github.com/MiruHeon/Normal-Project/blob/main/profile.png?raw=true" alt="류용헌" width="150"> |
+| PL |
+
