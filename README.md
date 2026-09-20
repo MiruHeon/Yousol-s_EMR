@@ -19,6 +19,19 @@ Winform을 이용하여 구현하였습니다.
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/emr.png?raw=true" alt="EMR" width="800" />
 </p>
 
+## Core Features
+### Disease Selection System
+질환을 하나하나 진단해서 입력하는 것이 아닌, 다양한 선택(질환)들을 보여주며, 더 나은 진단을 할 수 있도록 설계했습니다. 
+
+### High‑temperature Detection System
+열이 38도를 넘어갈 시, 자동으로 소견서에 해열제 투입이 명령되는 시스템을 도입했습니다.
+
+### Disease Treatment System
+환자에 증세에 맞는 특정 질환을 선택할 시, 자동으로 질환에 맞는 치료제 투여가 소견서에 명령되는 시스템을 도입했습니다. 
+
+## Areas for Improvement
+현재까지 만든 이 EMR은, 소견서 작성이나 환자의 특이사항 작성에는 문제가 없으나, 추후에 데이터베이스 서버에 연결해서 다른 컴퓨터들과 연결될 수 있으면 더 좋을 것 같습니다.
+
 ## 개발 팀원 소개
 | 류용헌 |
 |:------:|
