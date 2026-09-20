@@ -16,7 +16,7 @@ Winform을 이용하여 구현하였습니다.
 의학적 참고는 '서울아산병원 웹사이트'에서 받았습니다.
 
 <p align="center">
-  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/emr.png?raw=true" alt="EMR" width="500" />
+  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/emr.png?raw=true" alt="EMR" width="800" />
 </p>
 
 ## 개발 팀원 소개
