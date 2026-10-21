@@ -35,7 +35,7 @@ Winform을 이용하여 구현하였습니다.
 ## 개발 팀원 소개
 | 류용헌 |
 |:------:|
-| <img src="https://github.com/MiruHeon/Normal-Project/blob/main/profile.png?raw=true" alt="류용헌" width="150"> |
+| <img src="https://github.com/MiruHeon/Normal-Project/blob/main/momong.jpg?raw=true" alt="류용헌" width="150"> |
 | PL |
 
 ## 주의 사항
